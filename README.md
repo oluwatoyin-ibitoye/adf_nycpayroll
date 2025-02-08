@@ -11,6 +11,7 @@ By addressing these objectives, the NYC Payroll Data Warehouse contributes to mo
 Led an end-to-end data engineering project processing New York City's payroll data using Azure cloud services. Leveraged Azure Data Factory for ETL workflows and Azure Data Studio for data transformation, enabling efficient analysis of municipal employee compensation patterns. The solution automated data ingestion and processing, providing a scalable framework for payroll data management.
 
 #Objecties
+
 • Design a Data Warehouse for NYC
 • Develop a scalable and automated ETL Pipeline to load the payroll data NYC data
 warehouse
