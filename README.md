@@ -13,14 +13,20 @@ Led an end-to-end data engineering project processing New York City's payroll da
 #Objecties
 
 • Design a Data Warehouse for NYC
+
 • Develop a scalable and automated ETL Pipeline to load the payroll data NYC data
 warehouse
+
 • Develop aggregate table(s) in the Data warehouse for easy analysis of the key business
 questions
+
 • Ensure quality and consistency of data in your pipeline
+
 • Create a public user with limited privileges to enable public access to the NYC Data
 warehouse
+
 • Properly document all your processes for reproducibility – version control
+
 • Maintain a cloud-hosted repository of your codebase to facilitate collaboration with team members
 
 
