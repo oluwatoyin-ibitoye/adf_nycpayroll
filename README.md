@@ -31,7 +31,11 @@ warehouse
 
 
 ##Architecture
-![]
+
+
+![project Architecture](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/NYCpayroll_pipeline_architecture.drawio.png)
+
+
 ### Data Flow
 1. **Source Systems**: NYC payroll data (CSV/Excel files)
 2. **Azure Data Factory**: Orchestrates the ETL pipeline.
