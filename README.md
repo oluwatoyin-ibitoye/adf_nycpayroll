@@ -47,12 +47,22 @@ warehouse
 
 ##Dataset 
 
+https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/AgencyMaster.csv
+https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/EmpMaster.csv
+https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/TitleMaster.csv
+https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/nycpayroll_2020.xlsx
+https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/nycpayroll_2021.csv
+
 ## Data Warehouse Design
 The NYC payroll data warehouse is designed using a **star schema** for efficient querying and analysis.
 
 # Data Model
-#Setup and Configuration
+![ER DIAGRAM.drawio](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/ER%20DIAGRAM.drawio)
+
+##Setup and Configuration
+
 Prerequisites
+
 1.Azure subscription with contributor access
 3.Git installed
 4.Azure Data Studio installed
