@@ -59,6 +59,8 @@ The NYC payroll data warehouse is designed using a **star schema** for efficient
 # Data Model
 ![ER DIAGRAM.drawio](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/ER%20DIAGRAM.drawio)
 
+
+
 ##Setup and Configuration
 
 Prerequisites
