@@ -61,7 +61,8 @@ https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/nycpayroll_2021.c
 The NYC payroll data warehouse is designed using a **star schema** for efficient querying and analysis.
 
 # Data Model
-![ER DIAGRAM.drawio](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/ER%20DIAGRAM.drawio)
+
+![ER DIAGRAM.drawio](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/ER_DIAGRAM.png)
 
 
 
