@@ -97,11 +97,18 @@ GitHub Repository; https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/mai
 ## script for Project
 ![An end to end pipeline completed](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/Screenshot%202025-01-14%20234728.png)
 
-A copy to stage activity from my container in jason format [copy activity](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/nyc_pipeline_copy1.json).
+A copy to stage activity from my container in jason format
 
-Stored procedure to populate the data warehouse [stored procedure](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/stored_procedure.sql).
+(https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/nyc_pipeline_copy1.json).
 
-Public Access Permission [Public access permission](https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/public_Access_permission.sql).
+Stored procedure to populate the data warehouse 
+
+(https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/stored_procedure.sql)
+
+Public Access Permission 
+
+(https://github.com/oluwatoyin-ibitoye/adf_nycpayroll/blob/main/public_Access_permission.sql)
+
 
 
 
