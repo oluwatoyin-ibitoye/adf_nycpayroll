@@ -214,19 +214,19 @@ Azure Data Studio played a crucial role in designing the data warehouse schema, 
 Transformation Techniques
 The data transformation phase focused on several key strategies to ensure data quality, consistency, and analytical readiness:
 
-# Date Standardization
+## Date Standardization
    - Converted ‘AgencyStartDate’ column to a uniform `YYYY-MM-DD` format
    - Ensured consistent date representation across all data sources
    - Simplified date-based calculations and comparisons
-# Column Naming Conventions
+## Column Naming Conventions
    - Renamed AgencyID and AgencyCode to follow a clear, consistent naming schema
    - Improved code readability
    - Enhanced understanding of data elements
    - Created intuitive column names that reflect their content and purpose
-# Concatenating data
+## Concatenating data
    - Concatenated nycpayroll_2020 and nycpayroll_2021 for robust dataset
    - Merged relevant attributes to provide more comprehensive information
-# Advanced Transformation Approaches
+## Advanced Transformation Approaches
 Beyond basic transformations, the process incorporated:
 - Data type normalization
 - Handling of null and missing values
@@ -242,12 +242,12 @@ The comprehensive transformation process resulted in:
 By meticulously preparing and transforming the data, the project established a solid foundation for robust reporting and in-depth organizational insights.
 
 
-## 3. Loading:
+# 3. Loading:
 Loading Schema (EDW) in Azure Data Factory and Azure Data Studio
 The Loading Schema (EDW) serves as the core of the data warehouse, hosting well-structured, transformed, and enriched data optimized for analytics and reporting. It provides a clean and organized repository designed to support business intelligence use cases by enabling efficient querying and insightful analysis.
 Azure Data Factory (ADF) was utilized to orchestrate the ETL/ELT pipelines, while Azure Data Studio was employed to write and execute advanced SQL queries for data transformation, validation, and enrichment. Together, these tools ensured a robust and automated data processing workflow.
 Workflow for Loading Schema (EDW):
-# 1.	Data Transformation and Cleaning:
+## 1.	Data Transformation and Cleaning:
 -	Data from the staging schema (STG) was cleaned and standardized in the loading process.
 -	Operations such as null value handling, duplicate removal, and data type conversions ensured high-quality data.
 # 2.	Schema Creation:
@@ -320,14 +320,14 @@ Proactive performance optimization (e.g., indexing and partitioning) is crucial 
 Effective error handling and real-time monitoring ensure timely resolution of issues.
 Securely managing sensitive data with encryption and access controls is vital for compliance and trust.
 
-## Project Outcomes
+# Project Outcomes
 
 •  A fully functional data warehouse was created on Azure.
 •  The ETL pipeline successfully loaded data into the data warehouse.
 •  Data quality checks ensured consistency and accuracy.
 •  Public access was enabled with a read-only user.
 
-## Future Work
+# Future Work
 •  Automate the ETL pipeline using Azure Data Factory.
 •  Add more datasets to the data warehouse.
 •  Implement advanced analytics and reporting.
@@ -335,6 +335,6 @@ Securely managing sensitive data with encryption and access controls is vital fo
     Automate the incremental data load pipeline using event triggers.
 
 
-## Conclusion
+# Conclusion
 This project demonstrates the end-to-end process of designing a data warehouse, developing an ETL pipeline, and loading data into a cloud-hosted database. The documented process ensures reproducibility and provides a foundation for future enhancements.
 
