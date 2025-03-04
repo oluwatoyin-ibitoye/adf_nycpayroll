@@ -1,3 +1,4 @@
+
 # Project Overview
 
 The NYC Payroll Data Warehouse project delivers a robust solution for processing, analyzing, and storing payroll data for New York City. Leveraging Azure Data Factory, the project orchestrates Extract, Transform, and Load (ETL) workflows to convert raw data from various sources into a well-structured data warehouse hosted on Azure SQL Database. This system facilitates advanced analytics and reporting, empowering data-driven decision-making in employee compensation, agency performance, and workforce management.
